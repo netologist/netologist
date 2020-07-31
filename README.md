@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/go/go.png" />][website]
+[<img align="left" alt="Golang" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" />][website]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/rust/rust.png" />][website]
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/kotlin/kotlin.png" />][website]
 [<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/julia/julia.png" />][website]
@@ -37,8 +37,10 @@
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website]
 
 
+<br />
 
 ---
+
 
 <img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasanOzgan&show_icons=true&hide_border=true" />
 
