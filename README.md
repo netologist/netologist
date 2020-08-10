@@ -1,11 +1,10 @@
-### Hi there, I'm Hasan - aka [veribaz][website] 👋
+### Hi there, I'm Hasan Ozgan - aka [netologist][website] 👋
 
 ## I'm a Husband, Father, Developer, Netologist, and Veribaz!
-- 🔭 I’m currently working on Email Client [ac.tivi.st][activistgithub]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on open source an email client [ac.tivi.st][activistgithub]!
+- 🌱 I’m currently learning something 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to theatre and distributed systems
+- ⚡ Fun fact: I'm big fan about data science and distributed systems (cloud computing, microservices, internet etc...)
 
 ### Connect with me:
 
