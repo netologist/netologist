@@ -43,7 +43,7 @@
 
 <img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasanOzgan&show_icons=true&hide_border=true" />
 
-[website]: https://hasanozgan.com
+[website]: https://www.hasanozgan.com
 [twitter]: https://twitter.com/hasanozgan
 [linkedin]: https://linkedin.com/in/hasanozgan
 [activistgithub]: https://github.com/ac-tivi-st
