@@ -14,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Golang" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" />][website]
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/go/go.png" />][website]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/rust/rust.png" />][website]
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/kotlin/kotlin.png" />][website]
 [<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/julia/julia.png" />][website]
