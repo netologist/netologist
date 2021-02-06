@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasan Ozgan - aka [netologist][website] 👋
 
-## I'm a Husband, Father, Developer, Netologist, and Veribaz!
+## I'm a Husband, Father, Developer, Netologist!
 - 🌱 I’m currently learning something
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm big fan about data science and distributed systems (cloud computing, microservices, internet etc...)
@@ -14,15 +14,9 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/go/go.png" />][website]
+[<img align="left" alt="Golang" width="26px" src="https://pbs.twimg.com/profile_images/554798224154701824/mWd3laxO_400x400.png" />][website]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/rust/rust.png" />][website]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/kotlin/kotlin.png" />][website]
-[<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/julia/julia.png" />][website]
-[<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/haskell/haskell.png" />][website]
-[<img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/elixir/elixir.png" />][website]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
