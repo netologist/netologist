@@ -1,4 +1,4 @@
-### Hi there, I'm Hasan Ozgan - aka [netologist][website] 👋
+### Hi there, I'm Hasan Ozgan - aka [netologist][website-en] 👋
 
 ## I'm a Husband, Father, Developer, Netologist!
 - 🌱 I’m currently learning something
@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="atolye.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="netologist" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website-en]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -42,6 +42,7 @@
 <img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasanOzgan&show_icons=true&hide_border=true" />
 
 [website]: https://www.hasanozgan.com
+[website-en]: https://netologist.org/
 [twitter]: https://twitter.com/hasanozgan
 [linkedin]: https://linkedin.com/in/hasanozgan
 [activistgithub]: https://github.com/ac-tivi-st
