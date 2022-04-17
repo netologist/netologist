@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Hasan Ozgan - aka [netologist][website]
+#### I'm a Husband, Father and Developer
 
-## I'm a Husband, Father, Developer, Netologist!
+
 🌱 &nbsp; I’m currently learning something.
 
 🥅 &nbsp; 2022 Goals: I'll share my experience about my pet project's ([pomodoro.news](https://pomodoro.news)) journey via a blog [post series](https://netologist.org/series/the-project-pomodoro.news/) as from `zero to hero` on the [mono repo](https://github.com/netology/pomodoro-news).
