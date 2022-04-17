@@ -11,6 +11,10 @@
 
 ⚡ &nbsp; Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
 
+#### Certificate(s):
+[<img align="left" alt="Certified Kubernetes Application Developer" width="26px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421)
+
+<br />
 
 #### Connect with me:
 
@@ -31,10 +35,6 @@
 
 <br />
 
-#### Certificate(s):
-[<img align="left" alt="Certified Kubernetes Application Developer" width="26px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421)
-
-<br />
 
 #### Tools:
 [<img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />][website]
