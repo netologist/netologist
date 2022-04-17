@@ -1,13 +1,18 @@
-### Hi there, I'm Hasan Ozgan - aka [netologist][website-en] 👋
+### Hi there 👋, I'm Hasan Ozgan - aka [netologist][website]
 
 ## I'm a Husband, Father, Developer, Netologist!
-- 🌱 I’m currently learning something
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm big fan about data science and distributed systems (cloud computing, microservices, internet etc...)
+🌱 &nbsp; I’m currently learning something.
+
+🥅 &nbsp; 2022 Goals: I'll share my experience about my pet project's ([pomodoro.news](https://pomodoro.news)) journey via a blog [post series](https://netologist.org/series/the-project-pomodoro.news/) as from `zero to hero` 
+
+ &nbsp;  &nbsp;  &nbsp;  &nbsp; on the [mono repo](https://github.com/netology/pomodoro-news).
+
+⚡ &nbsp; Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
+
 
 ### Connect with me:
 
-[<img align="left" alt="netologist" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website-en]
+[<img align="left" alt="netologist" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -15,24 +20,28 @@
 
 
 #### Languages:
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][website-en]
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/rust/rust.png" />][website-en]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][website-en]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][website-en]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][website-en]
-[<img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" />][website-en]
-<br />
-#### Tools:
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][website-en]
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][website-en]
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][website-en]
-[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />][website-en]
-[<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][website-en]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][website-en]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website-en]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][website-en]
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][website]
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />][website]
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][website]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][website]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][website]
+[<img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" />][website]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website-en]
+<br />
+
+
+#### Tools:
+[<img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />][website]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][website]
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />][website]
+[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />][website]
+[<img align="left" alt="Nix" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" />][website]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][website]
+[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />][website]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website]
+[<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />][website]
 
 <br />
 
@@ -41,8 +50,8 @@
 
 <img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasanOzgan&show_icons=true&hide_border=true" />
 
-[website]: https://www.hasanozgan.com
-[website-en]: https://netologist.org/
+[website]: https://netologist.org/
+[website-tr]: https://www.hasanozgan.com
 [twitter]: https://twitter.com/hasanozgan
 [linkedin]: https://linkedin.com/in/hasanozgan
 [activistgithub]: https://github.com/ac-tivi-st
