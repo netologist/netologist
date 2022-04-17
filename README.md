@@ -3,9 +3,7 @@
 ## I'm a Husband, Father, Developer, Netologist!
 🌱 &nbsp; I’m currently learning something.
 
-🥅 &nbsp; 2022 Goals: I'll share my experience about my pet project's ([pomodoro.news](https://pomodoro.news)) journey via a blog [post series](https://netologist.org/series/the-project-pomodoro.news/) as from `zero to hero` 
-
- &nbsp;  &nbsp;  &nbsp;  &nbsp; on the [mono repo](https://github.com/netology/pomodoro-news).
+🥅 &nbsp; 2022 Goals: I'll share my experience about my pet project's ([pomodoro.news](https://pomodoro.news)) journey via a blog [post series](https://netologist.org/series/the-project-pomodoro.news/) as from `zero to hero` on the [mono repo](https://github.com/netology/pomodoro-news).
 
 ⚡ &nbsp; Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
 
