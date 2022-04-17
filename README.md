@@ -15,9 +15,6 @@
 ⚡ &nbsp; Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
 
 
-
-<br />
-
 #### Connect with me:
 
 [<img align="left" alt="netologist" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
