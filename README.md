@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Hasan Ozgan - aka [netologist][website]
+### Hi there 👋
 
-#### I'm a Husband, Father and Developer 
+##### I'm Hasan Ozgan - aka [netologist][website], husband, father and developer 
 
 
 
