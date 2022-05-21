@@ -6,7 +6,7 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 #### 2022 Goals: 
 - 🌳 ~~Getting the CKAD Certificate~~ [<img alt="Certified Kubernetes Application Developer" width="25px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421)
-- 🌿 Getting AWS Solution Architect Certificate
+- 🌿 Getting AWS Solution Architect Certificate [<img  alt="AWS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website]
 - 🌱 I'll share my experience about my pet project's ([pomodoro.news](https://pomodoro.news)) journey via a blog [post series](https://netologist.org/series/the-project-pomodoro.news/) as from `zero to hero` on the [mono repo](https://github.com/netology/pomodoro-news).
 
 #### Connect with me:
