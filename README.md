@@ -1,7 +1,8 @@
 #### Hi there 👋
 
-##### I'm Hasan Ozgan - aka [netologist][website], husband, father and developer
-⚡ &nbsp; Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
+I'm Hasan Ozgan - aka [netologist][website], husband, father and developer
+
+Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
 
 #### 2022 Goals: 
 - 🌳 ~~Getting the CKAD Certificate~~ [<img alt="Certified Kubernetes Application Developer" width="25px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421)
