@@ -53,7 +53,7 @@
 
 
 <img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasanOzgan&show_icons=true&hide_border=true" />
-<img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanOzgan&show_icons=true&hide_border=true&langs_count=3" />
+<img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanOzgan&show_icons=true&hide_border=true&langs_count=3&hide=c%2B%2B,C,Elm,Asp,C,c%23,Scala,Ruby,HTML" />
 
 [website]: https://netologist.org/
 [website-tr]: https://www.hasanozgan.com
