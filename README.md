@@ -30,7 +30,6 @@
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][website]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][website]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][website]
-[<img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" />][website]
 
 <br />
 
