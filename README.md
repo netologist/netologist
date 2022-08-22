@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm Hasan Ozgan - aka [netologist][website], husband, father and developer
+I'm H. Ozgan - aka [netologist][website], husband, father and developer
 
 Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
 
@@ -45,11 +45,11 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 ---
 
 
-<img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasanOzgan&show_icons=true&hide_border=true" />
-<img align="left" alt="HasanOzgan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanOzgan&langs_count=3&cache_seconds=1&hide=c%2B%2B,C,Elm,Asp,C,c%23,Ruby,HTML,scala,kotlin,css&show_icons=true&hide_border=true" />
+<img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api?username=netologist&show_icons=true&hide_border=true" />
+<img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netologist&langs_count=3&cache_seconds=1&hide=c%2B%2B,C,Elm,Asp,C,c%23,Ruby,HTML,scala,kotlin,css&show_icons=true&hide_border=true" />
 
 [website]: https://netologist.org/
-[website-tr]: https://www.hasanozgan.com
-[twitter]: https://twitter.com/hasanozgan
+[website-tr]: https://www.hozgan.com
+[twitter]: https://twitter.com/hozgan
 [linkedin]: https://linkedin.com/in/hasanozgan
 [activistgithub]: https://github.com/ac-tivi-st
