@@ -5,9 +5,9 @@ I'm H. Ozgan - aka [netologist][website], husband, father and developer
 Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
 
 #### 2022 Goals: 
-- 🌳 ~~Getting the CKAD Certificate~~ [<img alt="Certified Kubernetes Application Developer" width="25px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421)
-- 🌳 ~~Getting Hashicorp Terraform Certificate~~ [<img alt="Certified Kubernetes Application Developer" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />](https://www.credly.com/earner/earned/badge/22c74b0a-9c50-43eb-a370-4008b2b85a31)
-- 🪴 Getting AWS Solution Architect Certificate [<img alt="AWS SAA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website] `it might carry over to next year`
+- 🌳 ~~Getting the CKAD Certificate~~ [<img alt="CKAD: Certified Kubernetes Application Developer" width="25px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421)
+- 🌳 ~~Getting Hashicorp Terraform Certificate~~ [<img alt="HashiCorp Certified: Terraform Associate (002)" width="25px" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />](https://www.credly.com/badges/22c74b0a-9c50-43eb-a370-4008b2b85a31)
+- 🪴 Getting AWS Solution Architect Certificate [<img alt="AWS SAA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website] `carry over to next year`
 - 🪵 _cancelled_ ~~I'll share my experience about my pet project's ([pomodoro.news](https://pomodoro.news)) journey via a blog [post series](https://netologist.org/series/the-project-pomodoro.news/) as from `zero to hero` on the [mono repo](https://github.com/netology/pomodoro-news).~~ 
 
 #### Connect with me:
