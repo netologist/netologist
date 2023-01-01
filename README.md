@@ -4,11 +4,11 @@ I'm H. Ozgan - aka [netologist][website], husband, father and developer
 
 Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
 
-#### 2022 Goals: 
-- 🌳 ~~Getting the CKAD Certificate~~ [<img alt="CKAD: Certified Kubernetes Application Developer" width="25px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421)
-- 🌳 ~~Getting Hashicorp Terraform Certificate~~ [<img alt="HashiCorp Certified: Terraform Associate (002)" width="25px" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />](https://www.credly.com/badges/22c74b0a-9c50-43eb-a370-4008b2b85a31)
-- 🪴 Getting AWS Solution Architect Certificate [<img alt="AWS SAA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website] `carry over to next year`
-- 🪵 _cancelled_ ~~I'll share my experience about my pet project's ([pomodoro.news](https://pomodoro.news)) journey via a blog [post series](https://netologist.org/series/the-project-pomodoro.news/) as from `zero to hero` on the [mono repo](https://github.com/netology/pomodoro-news).~~ 
+#### 2023 Goals: 
+- 🪴 Getting AWS Solution Architect Certificate [<img alt="AWS SAA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website] 
+- 🌱 Focus the Rust language as a primary language in toolbox. (more open source project(s) like [github.com/netology/elchi](elchi))
+- 🌱 Improve infrastructure and platform engineering troubleshooting skills.
+- 🌱 New pet project (mail flow management project; [github.com/netology/elchi](elchi))
 
 #### Connect with me:
 
@@ -18,9 +18,15 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 <br />
 
+#### Certifications:
+[<img align="left" alt="CKAD: Certified Kubernetes Application Developer" width="25px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421) 
+[<img align="left" alt="HashiCorp Certified: Terraform Associate (002)" width="25px" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />](https://www.credly.com/badges/22c74b0a-9c50-43eb-a370-4008b2b85a31)
+
+<br />
+
 #### Languages:
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][website]
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />][website]
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][website]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][website]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][website]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][website]
