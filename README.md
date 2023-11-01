@@ -15,6 +15,7 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 #### Certifications:
 [<img align="left" alt="CKAD: Certified Kubernetes Application Developer" width="25px" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" />](https://www.credly.com/badges/f2c1b4b0-c9d8-4928-a6c4-9a3d40813421) 
 [<img align="left" alt="HashiCorp Certified: Terraform Associate (002)" width="25px" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />](https://www.credly.com/badges/22c74b0a-9c50-43eb-a370-4008b2b85a31)
+[<img align="left" alt="AWS Certified: Solutions Architect Associate (C03)" width="25px" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />](https://www.credly.com/badges/ae8b5330-fbec-4b3b-8574-da15837afd05)
 
 <br />
 
