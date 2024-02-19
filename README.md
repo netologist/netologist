@@ -20,7 +20,8 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 <br />
 
 #### Languages:
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />][website]
+
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />][website]
 [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][website]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />][website]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][website]
