@@ -53,7 +53,7 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 - Cloud (aws) & Cloud Native (k8s)
 - Software Architecture (distributed systems)
 - AI & LLM (ai agents)
-- Internet of Things (ardino)
+- Internet of Things (swarm-robots, lora)
 - Security (threat modeling)
 - Finance (de-fi, analysis)
 
