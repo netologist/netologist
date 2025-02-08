@@ -51,7 +51,7 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 #### Interesting Areas:
 
 - Cloud (aws) & Cloud Native (k8s)
-- Software Architectures (distributed systems)
+- Software Architecture (distributed systems)
 - AI & LLM (ai agents)
 - Internet of Things (ardino)
 - Security (threat modeling)
