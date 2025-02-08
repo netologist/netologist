@@ -2,7 +2,7 @@
 
 I'm H. Ozgan - aka [netologist][website], husband, father and developer
 
-Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, internet etc...)
+Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, ai-agents, internet etc...)
 
 #### Connect with me:
 
@@ -46,6 +46,15 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />][website]
 
 <br />
+
+
+#### Researching Areas:
+
+- Cloud (aws) & Cloud Native (k8s)
+- Software Architectures (distributed systems)
+- Finance (de-fi, analysis)
+- AI & LLM (ai agents)
+- Internet of Things (ardino)
 
 ---
 
