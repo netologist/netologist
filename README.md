@@ -4,6 +4,16 @@ I'm H. Ozgan - aka [netologist][website], husband, father and developer
 
 Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, ai-agents, internet etc...)
 
+#### Interesting Areas:
+
+- 🌳 Cloud (aws) & Cloud Native (k8s)
+- 🌳 Software Architecture (distributed systems)
+- 🪴 Security (threat modeling)
+- 🪴 Finance (payment, de-fi)
+- 🪴 Marketing (gamification, pricing)
+- 🌱 AI & LLM (ai agents)
+- 🌱 Internet of Things (swarm-robots, lora)
+
 #### Connect with me:
 
 [<img align="left" alt="netologist" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -46,17 +56,6 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />][website]
 
 <br />
-
-
-#### Interesting Areas:
-
-- 🌳 Cloud (aws) & Cloud Native (k8s)
-- 🌳 Software Architecture (distributed systems)
-- 🪴 Security (threat modeling)
-- 🪴 Finance (payment, de-fi)
-- 🪴 Marketing (gamification, pricing)
-- 🌱 AI & LLM (ai agents)
-- 🌱 Internet of Things (swarm-robots, lora)
 
 ---
 
