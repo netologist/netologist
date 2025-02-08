@@ -4,7 +4,7 @@ I'm H. Ozgan - aka [netologist][website], husband, father and developer
 
 Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, ai-agents, internet etc...)
 
-#### Interesting Areas:
+#### Areas of Interest:
 
 - 🌳 Cloud (aws) & Cloud Native (k8s)
 - 🌳 Software Architecture (distributed systems)
