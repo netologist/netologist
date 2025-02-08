@@ -55,6 +55,7 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 - Finance (de-fi, analysis)
 - AI & LLM (ai agents)
 - Internet of Things (ardino)
+- Security (threat modeling)
 
 ---
 
