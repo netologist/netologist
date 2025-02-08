@@ -48,14 +48,14 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 <br />
 
 
-#### Researching Areas:
+#### Interesting Areas:
 
 - Cloud (aws) & Cloud Native (k8s)
 - Software Architectures (distributed systems)
-- Finance (de-fi, analysis)
 - AI & LLM (ai agents)
 - Internet of Things (ardino)
 - Security (threat modeling)
+- Finance (de-fi, analysis)
 
 ---
 
