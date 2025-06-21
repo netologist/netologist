@@ -8,10 +8,10 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 - 🌳 Cloud (aws) & Cloud Native (k8s)
 - 🌳 Software Architecture (distributed systems)
-- 🪴 Gen AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
-- 🪴 Security (threat modeling)
+- 🌳 Gen AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
 - 🪴 Finance (algo-trading, de-fi)
-- 🪴 Marketing (gamification, pricing)
+- 🪴 Security (threat modeling)
+- 🌱 Marketing (gamification, pricing)
 - ~🍂 Internet of Things (swarm-robots, lora)~
 
 #### Connect with me:
