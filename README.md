@@ -39,6 +39,7 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 ---
 
-
+<!--
 <img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api?username=netologist&show_icons=true&hide_border=true" />
 <img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netologist&langs_count=3&cache_seconds=1&hide=c%2B%2B,C,Elm,Asp,C,c%23,Ruby,HTML,scala,kotlin,css&show_icons=true&hide_border=true" />
+-->
