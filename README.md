@@ -13,10 +13,10 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 #### Languages:
 
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 
 <br />
@@ -37,9 +37,10 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 <br />
 
+<!--
+
 ---
 
-<!--
 <img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api?username=netologist&show_icons=true&hide_border=true" />
 <img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netologist&langs_count=3&cache_seconds=1&hide=c%2B%2B,C,Elm,Asp,C,c%23,Ruby,HTML,scala,kotlin,css&show_icons=true&hide_border=true" />
 -->
