@@ -21,6 +21,8 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 <br />
 
+<!--
+
 #### Tools:
 <img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
@@ -37,10 +39,9 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 <br />
 
-<!--
-
 ---
 
 <img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api?username=netologist&show_icons=true&hide_border=true" />
 <img align="left" alt="Netologist's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netologist&langs_count=3&cache_seconds=1&hide=c%2B%2B,C,Elm,Asp,C,c%23,Ruby,HTML,scala,kotlin,css&show_icons=true&hide_border=true" />
+
 -->
