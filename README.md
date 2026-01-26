@@ -9,7 +9,6 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 - 🌳 Cloud (aws) & Cloud Native (k8s)
 - 🌳 Software Architecture (distributed systems)
 - 🌳 Gen AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
-- 🪴 Security (threat modeling)
 
 #### Languages:
 
