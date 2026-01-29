@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm H. Ozgan - Netologist, DadOps and Developer
+I'm Netologist, DadOps and Developer
 
 Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, ai-agents, internet etc...)
 
