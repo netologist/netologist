@@ -6,17 +6,18 @@ Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services
 
 #### Areas of Interest:
 
-- 🌳 Cloud (aws) & Cloud Native (k8s)
-- 🌳 Software Architecture (distributed systems)
-- 🌳 Gen AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
+- Cloud (aws) & Cloud Native (k8s)
+- Software Architecture (distributed systems)
+- Gen AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
+- Fintech Domain (payments, core-banking, trading systems)
 
 #### Languages:
 
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
 
 <br />
 
