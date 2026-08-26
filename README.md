@@ -3,7 +3,7 @@ Distinguished Layabout · Shepherd of Agents · Cloud Plumber · Playwright of B
 
 #### Areas of Interest:
 
-- Developer, developer, developer...
+- Coding (developers, developers, developers)
 - Cloud (aws) & Cloud Native (k8s)
 - Software Architecture (distributed systems)
 - Generative AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
