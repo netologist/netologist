@@ -1,14 +1,12 @@
-#### Hi there 👋
-
-I'm Netologist, DadOps and Developer
-
-Fun fact: I'm big fan about distributed systems (cloud-computing, micro-services, ai-agents, internet etc...)
+#### H.OZGAN (a.k.a netologist)
+Distinguished Layabout | Shepherd of Agents | Cloud Plumber | Playwright of Bits
 
 #### Areas of Interest:
 
+- Developer, developer, developer...
 - Cloud (aws) & Cloud Native (k8s)
 - Software Architecture (distributed systems)
-- Gen AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
+- Generative AI (agentic-ai, rag, mcp, a2a, vector db, prompt-eng)
 - Fintech Domain (payments, core-banking, trading systems)
 
 #### Languages:
