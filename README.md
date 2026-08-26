@@ -1,5 +1,5 @@
 #### H.OZGAN (a.k.a netologist)
-Distinguished Layabout | Shepherd of Agents | Cloud Plumber | Playwright of Bits
+Distinguished Layabout · Shepherd of Agents · Cloud Plumber · Playwright of Bits
 
 #### Areas of Interest:
 
